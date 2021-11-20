@@ -1,7 +1,7 @@
 ---
 title: 2021-11-29 Hello world
 layout: post
-permalink: 2021-11-19-hello-world
+permalink: /jekyll-theme-console/2021-11-19-hello-world
 ---
 
 # Hello world
