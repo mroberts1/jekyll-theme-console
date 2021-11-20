@@ -3,7 +3,9 @@ title: /home
 layout: home
 permalink: /
 ---
-
-# Marvellous Pursuits
+## Marvellous Pursuits
   
-Hello world.
+  
+Greetings earthlings.
+  
+This is a test.

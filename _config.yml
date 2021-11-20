@@ -5,6 +5,7 @@
 header_pages:
   - index.md
   - about.md
+  - blog.md
   - now.md
   
 
@@ -12,8 +13,8 @@ footer: '<a href="https://merveilles.town/web/accounts/6363">dokoissho@merveille
 
 theme: jekyll-theme-console
 
-style: light # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
+style: light
+listen_for_clients_preferred_style: false # true or false (default)
 
 plugins:
   - jekyll-seo-tag
