@@ -2,14 +2,18 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - about.md
+  - now.md
+  
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '<a href="https://merveilles.town/web/accounts/6363">dokoissho@merveilles.town</a> | MIT License 2021'
 
-#style: light # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
+theme: jekyll-theme-console
+
+style: light # dark (default) or light
+listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
